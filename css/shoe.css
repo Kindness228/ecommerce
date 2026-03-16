@@ -1,0 +1,17 @@
+.lucide {
+    width: 20px;
+    height: 20px;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #e5e7eb;
+    border-radius: 10px;
+}
